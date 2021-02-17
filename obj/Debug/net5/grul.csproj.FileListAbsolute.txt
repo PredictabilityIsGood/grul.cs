@@ -1,0 +1,12 @@
+C:\Users\rmontgomery\Desktop\Azure\grul\obj\Debug\net5\grul.csprojAssemblyReference.cache
+C:\Users\rmontgomery\Desktop\Azure\grul\obj\Debug\net5\grul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmontgomery\Desktop\Azure\grul\obj\Debug\net5\grul.AssemblyInfoInputs.cache
+C:\Users\rmontgomery\Desktop\Azure\grul\obj\Debug\net5\grul.AssemblyInfo.cs
+C:\Users\rmontgomery\Desktop\Azure\grul\obj\Debug\net5\grul.csproj.CoreCompileInputs.cache
+C:\Users\rmontgomery\Desktop\Azure\grul\bin\Debug\net5\grul.deps.json
+C:\Users\rmontgomery\Desktop\Azure\grul\bin\Debug\net5\grul.dll
+C:\Users\rmontgomery\Desktop\Azure\grul\bin\Debug\net5\ref\grul.dll
+C:\Users\rmontgomery\Desktop\Azure\grul\bin\Debug\net5\grul.pdb
+C:\Users\rmontgomery\Desktop\Azure\grul\obj\Debug\net5\grul.dll
+C:\Users\rmontgomery\Desktop\Azure\grul\obj\Debug\net5\ref\grul.dll
+C:\Users\rmontgomery\Desktop\Azure\grul\obj\Debug\net5\grul.pdb

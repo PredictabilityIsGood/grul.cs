@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f7fGQoqJ4tk7feqUxd8PyUgEDg6LrThcdoi5u2lINmWj2xXDW6ex0LYItgKoxNKxExKbcIATrWKD9plGX3Bmtg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rmontgomery\\Desktop\\Azure\\grul\\grul.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rmontgomery\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
