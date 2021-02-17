@@ -7,7 +7,7 @@ This project doesn't have a parked space within nuget at the moment.
 1) Add the compiled dll to your project references
 2) Add using statement within project
 ```csharp
-using Grul
+using grul
 ```
 
 #### Prerequisites
