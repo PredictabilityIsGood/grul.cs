@@ -33,6 +33,17 @@ AtMeta(matrix,new List<dynamic>(){ typeof(List<List<List<int>>>), typeof(List<Li
 );
 Console.WriteLine(flattened);
 flattened = new List<int>();
+//using implicit direct access
+AtMeta(matrix,new List<dynamic>(){ typeof(List<dynamic>), typeof(List<dynamic>) , typeof(List<int>) },
+	new { 
+		head = Logic((dynamic data, List<Type> htp, List<dynamic> hlp, List<Hop> hop, dynamic root)=>{
+			flattened.Add(data);
+			return true; // to continue traversal
+		})
+	}
+);
+Console.WriteLine(flattened);
+flattened = new List<int>();
 //using pattern based access
 AtPattern(matrix,new List<dynamic>(){ typeof(int) },
 	new { 
@@ -139,3 +150,11 @@ AtPattern(
     }
 */
 ```
+#### Planned Future Changes
+* shallowest pattern searches at arbitrary depth ( atShallowestPattern )
+* deepest patterns searches at arbitrary depth ( atDeepestPattern )
+* normal recursive tree traversal with halting capabilities ( atEvery ) 
+* define patterns with object templates ( atMatching )
+* retrieve primitives ( atEnds )
+* Hierarchical grouping with declarative templates
+* Segment and prune multi-dimensional recursive patterns
