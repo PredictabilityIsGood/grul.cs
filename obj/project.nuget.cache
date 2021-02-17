@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f7fGQoqJ4tk7feqUxd8PyUgEDg6LrThcdoi5u2lINmWj2xXDW6ex0LYItgKoxNKxExKbcIATrWKD9plGX3Bmtg==",
+  "dgSpecHash": "qD67nIL7Nt/cfzwud0tIM1riMqpGMiX4V3t3YpEHLMx5hqIKdzIAN9+gK38L9ZRfaNScVdqrI4j1h7+2dK3jBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rmontgomery\\Desktop\\Azure\\grul\\grul.csproj",
+  "projectFilePath": "C:\\Users\\rmontgomery\\Desktop\\Azure\\grul.cs\\grul.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rmontgomery\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],

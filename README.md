@@ -11,7 +11,7 @@ using Grul
 ```
 
 #### Prerequisites
-Compiled dll requires project to be using .net 5. Compile within your desired versioning.
+Compiled dll within project uses .net 5. Compile within your desired versioning.
 
 #### Traverse, mutate, flatten multidimensional data
 ```csharp

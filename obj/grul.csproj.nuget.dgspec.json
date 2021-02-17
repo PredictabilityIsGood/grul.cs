@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rmontgomery\\Desktop\\Azure\\grul\\grul.csproj": {}
+    "C:\\Users\\rmontgomery\\Desktop\\Azure\\grul.cs\\grul.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rmontgomery\\Desktop\\Azure\\grul\\grul.csproj": {
+    "C:\\Users\\rmontgomery\\Desktop\\Azure\\grul.cs\\grul.csproj": {
       "version": "0.5.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rmontgomery\\Desktop\\Azure\\grul\\grul.csproj",
+        "projectUniqueName": "C:\\Users\\rmontgomery\\Desktop\\Azure\\grul.cs\\grul.csproj",
         "projectName": "grul",
-        "projectPath": "C:\\Users\\rmontgomery\\Desktop\\Azure\\grul\\grul.csproj",
+        "projectPath": "C:\\Users\\rmontgomery\\Desktop\\Azure\\grul.cs\\grul.csproj",
         "packagesPath": "C:\\Users\\rmontgomery\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rmontgomery\\Desktop\\Azure\\grul\\obj\\",
+        "outputPath": "C:\\Users\\rmontgomery\\Desktop\\Azure\\grul.cs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
