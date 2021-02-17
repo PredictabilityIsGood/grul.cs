@@ -122,7 +122,7 @@ namespace grul
             return continueTraversal;
         }
         public static dynamic AtMeta( dynamic data, List<dynamic> metaPath, dynamic logic, int relativity = 0, List<Type> historicalTypePath = null, List<dynamic> historicalLiteralPath = null, List<MetaTemplate> curPathStates = null){
-            return AtPattern(data,metaPath,new { head = logic },relativity, historicalTypePath, historicalLiteralPath, curPathStates, data, true);
+            return AtPattern(data,metaPath,logic,relativity, historicalTypePath, historicalLiteralPath, curPathStates, data, true);
         }
         public static dynamic AtPattern( dynamic data, List<dynamic> metaPath, dynamic logic, int relativity = 0, List<Type> historicalTypePath = null, List<dynamic> historicalLiteralPath = null,  List<MetaTemplate> curPathStates = null,  dynamic root = null, bool direct=false){
             historicalTypePath = historicalTypePath ?? new List<Type>();
