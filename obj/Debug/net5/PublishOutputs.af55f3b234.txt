@@ -1,0 +1,4 @@
+C:\Users\rmontgomery\Desktop\Azure\grul.cs\bin\Debug\net5\publish\grul.dll
+C:\Users\rmontgomery\Desktop\Azure\grul.cs\bin\Debug\net5\publish\grul.deps.json
+C:\Users\rmontgomery\Desktop\Azure\grul.cs\bin\Debug\net5\publish\grul.pdb
+C:\Users\rmontgomery\Desktop\Azure\grul.cs\bin\Debug\net5\publish\Newtonsoft.Json.dll
